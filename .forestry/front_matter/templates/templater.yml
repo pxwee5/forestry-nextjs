@@ -1,4 +1,8 @@
 ---
 label: Templater
 hide_body: false
-fields: []
+fields:
+- name: asdf
+  type: boolean
+  label: asdf
+  description: '2123123123'
