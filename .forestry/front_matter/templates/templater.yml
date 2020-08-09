@@ -4,5 +4,6 @@ hide_body: false
 fields:
 - name: asdf
   type: boolean
-  label: asdf
+  label: Field label
   description: '2123123123'
+  default: false
