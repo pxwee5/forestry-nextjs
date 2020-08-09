@@ -10,7 +10,7 @@ sections:
   path: posts
   label: Posts
   create: all
-  match: "/posts/**/*"
+  match: "**/*"
 - type: directory
   path: ''
   label: Some Heading
