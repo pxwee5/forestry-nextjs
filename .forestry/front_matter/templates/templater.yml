@@ -12,3 +12,5 @@ fields:
   label: Field label
   description: '2123123123'
   default: false
+pages:
+- posts/testing.md
