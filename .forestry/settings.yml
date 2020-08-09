@@ -12,9 +12,8 @@ sections:
   create: all
   match: "**/*"
 - type: document
-  path: blog/*
+  path: posts/*
   label: Some Document
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
