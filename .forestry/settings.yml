@@ -12,7 +12,7 @@ sections:
   create: all
   match: "**/*"
 - type: document
-  path: "./posts/**/*"
+  path: "./README.md"
   label: Posts
 upload_dir: uploads
 public_path: "/uploads"
