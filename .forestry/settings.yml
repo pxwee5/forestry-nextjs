@@ -11,9 +11,6 @@ sections:
   label: Some Heading
   create: all
   match: "**/*"
-- type: document
-  path: "./README.md"
-  label: Posts
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
