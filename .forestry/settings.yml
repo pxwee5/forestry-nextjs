@@ -11,6 +11,10 @@ sections:
   label: Some Heading
   create: all
   match: "**/*"
+- type: document
+  path: blog/*
+  label: Some Document
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
